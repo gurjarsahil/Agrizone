@@ -47,8 +47,8 @@ A web-based application that helps farmers make data-driven decisions about crop
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Crop-Recommendation-System-Using-Machine-Learning.git
-cd Crop-Recommendation-System-Using-Machine-Learning
+git clone https://github.com/gurjarsahil/Agrizone.git
+cd Agrizone
 ```
 
 2. Install Python dependencies:
@@ -63,7 +63,7 @@ python app.py
 
 4. Open your web browser and navigate to:
 ```
-http://localhost:5000
+http://localhost:5500
 ```
 
 ## 💻 Usage
@@ -118,9 +118,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For any queries or support, please contact us through the contact form on the website or reach out to:
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [@YourTwitterHandle]
+- Email: [gurjarsahil272@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/sahil-kumar-bb05a3251/]
+
 
 ## 🙏 Acknowledgments
 
